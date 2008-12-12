@@ -1,4 +1,4 @@
-class Git-wiki-with-itGenerator < Rails::Generator::NamedBase
+class GitwikiGenerator < Rails::Generator::NamedBase
   def manifest
     record do |m|
       # m.directory "lib"
