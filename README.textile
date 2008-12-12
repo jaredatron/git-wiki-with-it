@@ -1,11 +1,11 @@
 Git-wiki-with-it
 ================
 
-Adds a simple wiki using Git as a database
+A Rails plugin that allows the generation of simple wikis using a git repo as a database
 
 Example
 =======
 
-
+ruby script/generate git-wiki wiki
 
 Copyright (c) 2008 Jared Grippe, released under the MIT license
