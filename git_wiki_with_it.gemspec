@@ -9,14 +9,14 @@ Gem::Specification.new do |s|
   s.has_rdoc = true
   s.authors  = ["Jared Grippe"]
   s.files    = [
-    "MIT-LICENSE"
-    "README.textile"
-    "Rakefile"
-    "git_wiki_with_it.gemspec"
-    "init.rb"
-    "install.rb"
-    "lib/git_wiki_with_it.rb"
-    "tasks/git_wiki_with_it_tasks.rake"
+    "MIT-LICENSE",
+    "README.textile",
+    "Rakefile",
+    "git_wiki_with_it.gemspec",
+    "init.rb",
+    "install.rb",
+    "lib/git_wiki_with_it.rb",
+    "tasks/git_wiki_with_it_tasks.rake",
     "uninstall.rb"]
   s.test_files = [
     "test/git_wiki_with_it_test.rb", 
