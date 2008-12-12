@@ -25,4 +25,5 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = ["MIT-LICENSE", "README.textile"]
   s.add_dependency("git", ["> 0.0.0"])
   s.add_dependency("grit", ["> 0.0.0"])
+  s.add_dependency("mojombo-grit", ["> 0.0.0"])
 end
