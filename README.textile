@@ -1,0 +1,11 @@
+Git-wiki-with-it
+================
+
+Adds a simple wiki using Git as a database
+
+Example
+=======
+
+
+
+Copyright (c) 2008 Jared Grippe, released under the MIT license
