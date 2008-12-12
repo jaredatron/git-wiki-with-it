@@ -1,0 +1,8 @@
+Description:
+    Generates a controller, git repo, and views for a simple wiki using git!
+
+Example:
+    ./script/generate git-wiki Name
+
+    This will create:
+        app/git/wiki_name.git
